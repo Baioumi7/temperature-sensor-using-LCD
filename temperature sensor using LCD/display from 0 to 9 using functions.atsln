@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "display from 0 to 9 using functions", "display from 0 to 9 using functions\display from 0 to 9 using functions.cproj", "{1F7799AA-8D41-4D8F-9223-A1E6CAC40B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F7799AA-8D41-4D8F-9223-A1E6CAC40B9A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{1F7799AA-8D41-4D8F-9223-A1E6CAC40B9A}.Debug|AVR.Build.0 = Debug|AVR
+		{1F7799AA-8D41-4D8F-9223-A1E6CAC40B9A}.Release|AVR.ActiveCfg = Release|AVR
+		{1F7799AA-8D41-4D8F-9223-A1E6CAC40B9A}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
